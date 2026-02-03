@@ -20,7 +20,7 @@ This project prioritizes:
 - deterministic, explainable logic
 - long-term maintainability
 
-Repository: https://github.com/SarahGiorgio/mindfuldbt
+Repository: [https://github.com/SarahGiorgio/mindfuldbt](https://github.com/Sarah-Giorgio/mindfuldbt)
 
 ---
 
