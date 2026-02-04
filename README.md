@@ -48,4 +48,4 @@ I believe good software:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/SarahGiorgio
+- GitHub: https://github.com/Sarah-Giorgio
