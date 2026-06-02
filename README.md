@@ -1,8 +1,8 @@
 # Sarah Giorgio
 
-Founder and full-stack developer building **Equilo** — a premium emotional self-support app for structured reflection, DBT-informed skill practice, and steadier everyday responses.
+Founder and developer of **Equilo**, a premium emotional self-support app for structured reflection, DBT-informed skill practice, and steadier everyday responses.
 
-I build product systems that combine thoughtful user experience, clean architecture, emotionally intelligent design, and practical software execution. My focus is building Equilo into a credible, differentiated product in the emotional wellness and self-help market.
+I build software that is clear, intentional, emotionally intelligent, and structurally sound. My focus is building Equilo into a credible, differentiated product in the emotional wellness and self-help market.
 
 ---
 
